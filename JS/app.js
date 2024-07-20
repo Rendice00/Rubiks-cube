@@ -1,4 +1,4 @@
-import {rotateCube} from './JS/functions.js'
+
 let box = document.querySelector('.box')
 
     const color = ['#009b48 ', '#0046ad ', '#ff5800 ', '#b71234 ', '#ffffff ', '#ffd500 '];
